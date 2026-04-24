@@ -44,5 +44,3 @@ codebook urban vcode village altitude_m
 save "../data/village_info_clean2025.dta", replace
 
 * TEST CHANGE
-
-* ADDING A CHANGE THAT WE WILL REVERT TO LATERRRR
